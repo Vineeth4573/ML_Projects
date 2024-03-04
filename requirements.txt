@@ -3,4 +3,6 @@ pandas
 numpy
 seaborn
 dill
+catboost
+xgboost
 # -e .
